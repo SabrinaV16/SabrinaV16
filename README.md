@@ -1,17 +1,34 @@
-### Olá, seja bem-vindo(a) 💙
+<div align="center">
 
-Me chamo Sabrina 
+# Olá, seja bem-vindo(a) 💜
 
-- Sou estudante de DS
-- Busco sempre evoluir e aprender para melhorar meu desempenho na área
-- Utilizo este espaço para guardar meus projetos
+<img src="https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif" width="200"/>
 
-  ### Meus contatos 📫
-  
-binassantos16@gmail.com 
+</div>
 
-@bina.santos1
+---
 
-![GIF](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
+## Sobre mim
 
-### Obrigada por visitar meu perfil!
+Me chamo **Sabrina**
+
+- Sou estudante de DS  
+- Busco sempre evoluir e aprender para melhorar meu desempenho na área  
+- Utilizo este espaço para guardar meus projetos  
+
+---
+
+## Meus contatos
+
+📧 binassantos16@gmail.com  
+📸 @bina.santos1  
+
+---
+
+
+
+[Clique aqui para ver o GIF](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
+
+---
+
+## Obrigada por visitar meu perfil 💜
