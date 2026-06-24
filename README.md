@@ -2,7 +2,7 @@
 
 # Olá, seja bem-vindo(a) 💜
 
-<img src="https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif" width="200"/>
+<img src="https://media.tenor.com/N3Y5uuiIRngAAAAC/mrbot.gif" width="200"/>
 
 </div>
 
