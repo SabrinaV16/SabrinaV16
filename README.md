@@ -1,10 +1,10 @@
-### Boas vindas ao meu perfil 💙
+### Olá, seja bem-vindo(a) 💙
 
-Eu me chamo Sabrina 
+Me chamo Sabrina 
 
 - Sou estudante de DS
-- Busco sempre estar evoluindo e aprendendo coisas novas para melhorar meu desempenho na área
-- Ultilizo este espaço para guardar meus projetos
+- Busco sempre evoluir e aprender para melhorar meu desempenho na área
+- Utilizo este espaço para guardar meus projetos
 
   ### Meus contatos 📫
   
@@ -12,7 +12,6 @@ binassantos16@gmail.com
 
 @bina.santos1
 
-![](https://tenor.com/eVnVmWtexoO.gif)
+![GIF](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
 
-
-### Obrigada por visistar meu perfil!
+### Obrigada por visitar meu perfil!
