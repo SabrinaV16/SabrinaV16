@@ -25,10 +25,4 @@ Me chamo **Sabrina**
 
 ---
 
-
-
-[Clique aqui para ver o GIF](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
-
----
-
 ## Obrigada por visitar meu perfil 💜
