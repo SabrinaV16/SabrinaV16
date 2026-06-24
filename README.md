@@ -2,7 +2,6 @@
 
 # Olá, seja bem-vindo(a) 💜
 
-<img src="https://media.tenor.com/N3Y5uuiIRngAAAAC/mrbot.gif" width="200"/>
 
 </div>
 
@@ -24,5 +23,7 @@ Me chamo **Sabrina**
 📸 @bina.santos1  
 
 ---
+
+![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGw0M25sMjVzenJ5anZsMmNxeWhyODR5cnhqdjR2MG00NTN0MG1pMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ov9nswzIf4vmtnhRpY/giphy.gif)
 
 ## Obrigada por visitar meu perfil 💜
