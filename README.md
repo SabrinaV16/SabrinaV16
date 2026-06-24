@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Sabrina 
+Eu me chamo Sabrina 
 
 - Sou estudante de DS
 - Busco sempre estar evoluindo e aprendendo coisas novas para melhorar meu desempenho na área
@@ -10,7 +10,9 @@ Meu nome é Sabrina
   
 binassantos16@gmail.com 
 
-@bina.santos1 
+@bina.santos1
+
+![](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
 
 
-![](https://tenor.com/pt-BR/view/mrbot-gif-3996445194265839224)
+### Obrigada por visistar meu perfil!
