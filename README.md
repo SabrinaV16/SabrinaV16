@@ -12,7 +12,7 @@ binassantos16@gmail.com
 
 @bina.santos1
 
-![](https://media1.tenor.com/m/N3Y5uuiIRngAAAAC/mrbot.gif)
+![](https://tenor.com/eVnVmWtexoO.gif)
 
 
 ### Obrigada por visistar meu perfil!
